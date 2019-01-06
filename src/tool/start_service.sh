@@ -14,6 +14,6 @@ else
 
    echo "Start success to start $PROJECTNAME ...."
 
-   nohup java -jar mini-program-0.0.1-SNAPSHOT.jar  >> catalina.out  2>&1 &
+   nohup java -jar homepage.jar  >> catalina.out  2>&1 &
 
 fi

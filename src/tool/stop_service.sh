@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PROJECTNAME=mini-program
+PROJECTNAME=homepage
 
 pid=`ps -ef |grep $PROJECTNAME |grep -v "grep" |awk '{print $2}'`
 
