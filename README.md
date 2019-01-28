@@ -1,5 +1,6 @@
 # scanning www.apetoday.cn 
 www.apetoday.cn welcome to homepage of my personal website.
+try www.apeytoday.com if you failed in visiting www.apetoday.cn
 
 ## quick start
 this repository contains all fore-end code.
