@@ -12,6 +12,7 @@ python -m SimpleHTTPServer 9010
 then you can visit through localhost:9010 at your browser
 
 if you are Java programmer
+
 run HomepageApplication at your compiler
 then you can visit through localhost:9010 at your browser
 
